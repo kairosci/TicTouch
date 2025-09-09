@@ -20,14 +20,6 @@ It is also possible to check the number for previous periods, through a dedicate
 
 ---
 
-## Disclaimer
-
-It is strictly forbidden to disseminate the code and multimedia content for third-party entities.
-
-Any known actions will be placed under investigation and punished according to current regulations.
-
----
-
 ## Thanksgiving
 
 *Thanks Apple Foundation Program "Parthenope" for the opportunity and all contributor for making that*.
